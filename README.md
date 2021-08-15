@@ -1,24 +1,22 @@
-# THE SPARKS FOUNDATION - GRIPAUG21 INTERNSHIP PROGRAM by Gayathri Ramu
-#  WEB DEVELOPMENT (TASK-1) ->> Basic-Banking-System---TSF
-# TSF - BANK
+<h1> THE SPARKS FOUNDATION - GRIPAUG21 INTERNSHIP PROGRAM by Gayathri Ramu
 
-A dynamic website made in the internship @THE SPARKS FOUNDATION under the #GRIPAUGUST2021 program by @
-# lanuages used:
-Frontend - HTML, CSS, BOOTSTRAP
-Backend - PHP
-Database - MySQL
-IDE - Visual Studio Code
-Webserver - XAMPP
+<h2>WEB DEVELOPMENT (TASK-1) ->> Basic-Banking-System---TSF</h2>
+<h2> TSF-BANK</h2>
+A dynamic website made in the internship @The Spark Foundation under their #GRIPAUGUST21 program.
+<strong> languages used </strong>
+<ol>
+<li> Frontend - HTML, CSS,  BOOTSTRAP </li>
+<li> Backend - PHP </li>
+<li> Database - MySQL </li>
+<li> IDE - Visual Studio Code </li>
+<li> Web Server - Xampp </li>
 
-1. Start the apache server and Mysql in xampp
-2. Import the SQL file in phpMyAdmin
-3. Open the code on localhost.
+<ul>
+<li> Start the apache server and Mysql in xampp</li>
+<li> Import the sql file in phpMyAdmin</li>
+<li> Open the code on loclahost</li>
+</ul>
 
-Website Flow: Home Page >> User Details >> Select user >> Transfer Money >> Select customer to transfer to >> Enter the amount to be transferred >> Transfer >> Transaction successful >>transaction histroy.
+<p>Flow: Home Page >> User Details >> Select user >> Transfer Money >> Select customer to transfer to >> Enter the amount to be transferred >> Transfer >> Transaction successful >>transaction histroy</p>
 
- For Bank Details, Home >> About.
- 
- #contact me
- https://www.linkedin.com/in/gayathri-ramu-56b56b1ba/
- 
- #TSF #INTERSHIP #GRIPAUG21 #GRIP #WEBDEVELOPMENT #BANKINGSYSTEM 
+<p>  For Bank Details, Home >> About </p>

@@ -1,0 +1,52 @@
+th, td{
+    font-size: 18px;
+}
+
+.profile{
+    margin: 20px 0px;
+    font-family: sans-serif;
+    color: #03045e;
+}
+
+.amount{
+    margin: 25px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 2px red solid;
+}
+
+.button {
+    background-color: #0b2d4e;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 0px 2px;
+    border-radius: 5px;
+}
+
+.button:hover{
+    background-color: #7cafe1;
+    color: #10002b;
+}
+
+.button:active{
+    background-color: #2ec4b6;
+}
+
+.transfer{
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media only screen and (max-width: 768px){
+    th,td{font-size: 11px;}
+    .transfer{margin-top: 10px;}
+}

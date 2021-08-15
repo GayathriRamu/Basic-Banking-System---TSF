@@ -1,0 +1,34 @@
+.logo-text{
+  font-size:20px;
+  color: rgb(0, 0, 0);
+  padding-top: 15px;    
+}
+  
+.nav-link1{
+  color: white;
+}
+
+.list-customer{
+  padding-left: 1100px;
+}
+
+.nav-link1:hover{
+  color: yellow;
+  text-decoration: none;
+}
+
+h2{
+  text-align: center;
+  margin-top: 20px;
+  font-family: sans-serif;
+  color: #03045e;
+  font-weight: bold;
+}
+
+th,td{
+  font-size: 20px;
+}
+  
+@media only screen and (max-width: 768px){
+  th,td{font-size: 12px;}
+}
